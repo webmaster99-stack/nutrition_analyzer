@@ -1,0 +1,6 @@
+outs:
+- md5: f7defe0cf2f53832ece846a1974ccbd2.dir
+  size: 5120848271
+  nfiles: 101008
+  hash: md5
+  path: food-101
