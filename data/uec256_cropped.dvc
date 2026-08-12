@@ -1,0 +1,6 @@
+outs:
+- md5: 0c1e85e934ee54f8f9f981ada369d1a9.dir
+  size: 1907103392
+  nfiles: 31628
+  hash: md5
+  path: uec256_cropped
