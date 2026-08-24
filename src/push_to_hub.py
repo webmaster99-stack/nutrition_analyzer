@@ -21,7 +21,7 @@ Usage (also publishing the Food-101-only baseline in the same repo):
         --checkpoint ./checkpoints/resnet50_food_best.pt \\
         --classes ./checkpoints/classes.txt \\
         --class-mapping ./class_mapping.json \\
-        --num-classes 315 --image-size 320 --finetune-unfreeze-from layer3 \\
+        --num-classes 313 --image-size 320 --finetune-unfreeze-from layer3 \\
         --best-val-accuracy 0.798 --test-accuracy 0.844 \\
         --food101-checkpoint ./old_checkpoints/resnet50_food101_best.pt \\
         --food101-classes ./old_checkpoints/classes.txt \\
