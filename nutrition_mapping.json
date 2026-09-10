@@ -1,0 +1,4112 @@
+{
+  "apple_pie": {
+    "matched_description": "Pie fillings, apple, canned",
+    "fdc_id": 168822,
+    "data_type": "SR Legacy",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 100.0,
+      "protein_g": 0.1,
+      "fat_g": 0.1,
+      "carbs_g": 26.1
+    },
+    "serving": {
+      "grams": 595.0,
+      "description": "can (21 oz)"
+    }
+  },
+  "bagel": {
+    "matched_description": "Snacks, bagel chips, plain",
+    "fdc_id": 173150,
+    "data_type": "SR Legacy",
+    "match_score": 0.887,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 451.0,
+      "protein_g": 12.34,
+      "fat_g": 15.14,
+      "carbs_g": 66.36
+    },
+    "serving": {
+      "grams": 175.0,
+      "description": "bag"
+    }
+  },
+  "beef_noodle": {
+    "matched_description": "Beef stroganoff with noodles",
+    "fdc_id": 2706486,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.882,
+    "token_coverage": 0.95,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 7.76,
+      "fat_g": 6.8,
+      "carbs_g": 8.99,
+      "calories_kcal": 129.0
+    },
+    "serving": {
+      "grams": 1408.0,
+      "description": "1 package, prepared"
+    }
+  },
+  "beef_noodle_soup": {
+    "matched_description": "Soup, beef noodle, canned, condensed",
+    "fdc_id": 171539,
+    "data_type": "SR Legacy",
+    "match_score": 0.94,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 67.0,
+      "protein_g": 3.85,
+      "fat_g": 2.46,
+      "carbs_g": 7.16
+    },
+    "serving": {
+      "grams": 305.0,
+      "description": "can (10.75 oz)"
+    }
+  },
+  "beignets": {
+    "matched_description": "Beignet",
+    "fdc_id": 2708071,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.915,
+    "token_coverage": 0.9,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 5.46,
+      "fat_g": 20.2,
+      "carbs_g": 53.7,
+      "calories_kcal": 417.0
+    },
+    "serving": {
+      "grams": 45.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "bread_pudding": {
+    "matched_description": "Pudding, bread",
+    "fdc_id": 2705680,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 1.0,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 5.6,
+      "fat_g": 4.86,
+      "carbs_g": 23.5,
+      "calories_kcal": 156.0
+    },
+    "serving": {
+      "grams": 200.0,
+      "description": "1 cup"
+    }
+  },
+  "breakfast_burrito": {
+    "matched_description": "Fast foods, breakfast burrito, with egg, cheese, and sausage",
+    "fdc_id": 170787,
+    "data_type": "SR Legacy",
+    "match_score": 0.883,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 277.0,
+      "protein_g": 11.1,
+      "fat_g": 15.63,
+      "carbs_g": 22.97
+    },
+    "serving": {
+      "grams": 109.0,
+      "description": "burrito"
+    }
+  },
+  "brownie": {
+    "matched_description": "Cookie, butterscotch, brownie",
+    "fdc_id": 2707907,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.9,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 4.8,
+      "fat_g": 16.3,
+      "carbs_g": 63.9,
+      "calories_kcal": 405.0
+    },
+    "serving": {
+      "grams": 90.0,
+      "description": "1 large"
+    }
+  },
+  "caesar_salad": {
+    "matched_description": "Caesar salad, with romaine, no dressing",
+    "fdc_id": 2709591,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.9,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 4.0,
+      "fat_g": 3.41,
+      "carbs_g": 7.49,
+      "calories_kcal": 77.0
+    },
+    "serving": {
+      "grams": 113.0,
+      "description": "1 Wendy's side salad"
+    }
+  },
+  "carrot_cake": {
+    "matched_description": "Cake or cupcake, carrot",
+    "fdc_id": 2707859,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 2.49,
+      "fat_g": 17.5,
+      "carbs_g": 51.8,
+      "calories_kcal": 374.0
+    },
+    "serving": {
+      "grams": 200.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "ceviche": {
+    "matched_description": "Ceviche",
+    "fdc_id": 2706463,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 1.0,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 10.5,
+      "fat_g": 0.76,
+      "carbs_g": 3.58,
+      "calories_kcal": 63.0
+    },
+    "serving": {
+      "grams": 250.0,
+      "description": "1 cup"
+    }
+  },
+  "cheese_plate": {
+    "matched_description": "CRACKER BARREL, macaroni n' cheese plate, from kid's menu",
+    "fdc_id": 167671,
+    "data_type": "SR Legacy",
+    "match_score": 0.88,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 192.0,
+      "protein_g": 6.46,
+      "fat_g": 11.51,
+      "carbs_g": 15.58
+    },
+    "serving": {
+      "grams": 257.0,
+      "description": "serving"
+    }
+  },
+  "cheesecake": {
+    "matched_description": "Cheesecake, chocolate",
+    "fdc_id": 2707863,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 5.72,
+      "fat_g": 26.1,
+      "carbs_g": 35.5,
+      "calories_kcal": 394.0
+    },
+    "serving": {
+      "grams": 180.0,
+      "description": "1 cup"
+    }
+  },
+  "chicken_curry": {
+    "matched_description": "Chicken curry",
+    "fdc_id": 2706437,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 1.0,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 6.48,
+      "fat_g": 6.48,
+      "carbs_g": 6.54,
+      "calories_kcal": 107.0
+    },
+    "serving": {
+      "grams": 240.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "chicken_nugget": {
+    "matched_description": "Chicken nuggets, NFS",
+    "fdc_id": 2706092,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.907,
+    "token_coverage": 0.95,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 15.9,
+      "fat_g": 20.4,
+      "carbs_g": 14.9,
+      "calories_kcal": 307.0
+    },
+    "serving": {
+      "grams": 140.0,
+      "description": "1 cup"
+    }
+  },
+  "chicken_quesadilla": {
+    "matched_description": "Fast foods, quesadilla, with chicken",
+    "fdc_id": 170765,
+    "data_type": "SR Legacy",
+    "match_score": 0.91,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 294.0,
+      "protein_g": 15.05,
+      "fat_g": 15.25,
+      "carbs_g": 24.04
+    },
+    "serving": {
+      "grams": 180.0,
+      "description": "each quesadilla"
+    }
+  },
+  "chicken_rice": {
+    "matched_description": "Chicken curry with rice",
+    "fdc_id": 2706438,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 4.96,
+      "fat_g": 4.0,
+      "carbs_g": 15.1,
+      "calories_kcal": 116.0
+    },
+    "serving": {
+      "grams": 200.0,
+      "description": "1 cup"
+    }
+  },
+  "chicken_wings": {
+    "matched_description": "Chicken \"wings\", plain, from precooked",
+    "fdc_id": 2706075,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.91,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 18.6,
+      "fat_g": 20.6,
+      "carbs_g": 7.15,
+      "calories_kcal": 294.0
+    },
+    "serving": {
+      "grams": 88.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "chinese_soup": {
+    "matched_description": "Soup, wonton, Chinese restaurant",
+    "fdc_id": 171821,
+    "data_type": "SR Legacy",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 32.0,
+      "protein_g": 2.08,
+      "fat_g": 0.26,
+      "carbs_g": 5.25
+    },
+    "serving": {
+      "grams": 223.0,
+      "description": "cup"
+    }
+  },
+  "chocolate_cake": {
+    "matched_description": "Cake, cherry fudge with chocolate frosting",
+    "fdc_id": 174933,
+    "data_type": "SR Legacy",
+    "match_score": 0.9,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 264.0,
+      "protein_g": 2.4,
+      "fat_g": 12.5,
+      "carbs_g": 38.0
+    },
+    "serving": {
+      "grams": 71.0,
+      "description": "piece (1/8 cake)"
+    }
+  },
+  "chocolate_mousse": {
+    "matched_description": "Desserts, mousse, chocolate, prepared-from-recipe",
+    "fdc_id": 168777,
+    "data_type": "SR Legacy",
+    "match_score": 0.9,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 225.0,
+      "protein_g": 4.14,
+      "fat_g": 16.0,
+      "carbs_g": 16.07
+    },
+    "serving": {
+      "grams": 808.0,
+      "description": "recipe yield"
+    }
+  },
+  "chop_suey": {
+    "matched_description": "Chow mein or chop suey, meatless, no noodles",
+    "fdc_id": 2710064,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.887,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 1.34,
+      "fat_g": 1.68,
+      "carbs_g": 5.74,
+      "calories_kcal": 43.0
+    },
+    "serving": {
+      "grams": 220.0,
+      "description": "1 cup"
+    }
+  },
+  "chow_mein": {
+    "matched_description": "Noodles, chinese, chow mein",
+    "fdc_id": 168905,
+    "data_type": "SR Legacy",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 471.0,
+      "protein_g": 10.88,
+      "fat_g": 21.24,
+      "carbs_g": 63.64
+    },
+    "serving": {
+      "grams": 43.0,
+      "description": "oz"
+    }
+  },
+  "churros": {
+    "matched_description": "Churros",
+    "fdc_id": 2708070,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 1.0,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 6.05,
+      "fat_g": 22.2,
+      "carbs_g": 48.9,
+      "calories_kcal": 419.0
+    },
+    "serving": {
+      "grams": 45.0,
+      "description": "1 regular"
+    }
+  },
+  "clam_chowder": {
+    "matched_description": "Soup, Manhattan clam chowder",
+    "fdc_id": 2707138,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 2.48,
+      "fat_g": 0.51,
+      "carbs_g": 5.26,
+      "calories_kcal": 35.0
+    },
+    "serving": {
+      "grams": 525.0,
+      "description": "1 can"
+    }
+  },
+  "club_sandwich": {
+    "matched_description": "Club sandwich on wheat",
+    "fdc_id": 2706995,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 16.0,
+      "fat_g": 7.65,
+      "carbs_g": 21.4,
+      "calories_kcal": 220.0
+    },
+    "serving": {
+      "grams": 130.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "crab_cakes": {
+    "matched_description": "Crab, cake",
+    "fdc_id": 2706549,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.958,
+    "token_coverage": 0.95,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 14.4,
+      "fat_g": 15.0,
+      "carbs_g": 4.48,
+      "calories_kcal": 214.0
+    },
+    "serving": {
+      "grams": 85.0,
+      "description": "1 cake or patty"
+    }
+  },
+  "cream_puff": {
+    "matched_description": "Cream puff shell, prepared from recipe",
+    "fdc_id": 174986,
+    "data_type": "SR Legacy",
+    "match_score": 0.9,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 360.0,
+      "protein_g": 9.0,
+      "fat_g": 25.9,
+      "carbs_g": 22.8
+    },
+    "serving": {
+      "grams": 66.0,
+      "description": "cream puff shell"
+    }
+  },
+  "crispy_noodles": {
+    "matched_description": "Asian chicken or turkey garden salad with crispy noodles, chicken and/or turkey, lettuce, fruit, nuts, crispy noodles, no dressing",
+    "fdc_id": 2706817,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.865,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 10.2,
+      "fat_g": 5.26,
+      "carbs_g": 8.11,
+      "calories_kcal": 116.0
+    },
+    "serving": {
+      "grams": 346.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "croissant": {
+    "matched_description": "Fast foods, croissant, with egg, cheese, and bacon",
+    "fdc_id": 173269,
+    "data_type": "SR Legacy",
+    "match_score": 0.869,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 289.0,
+      "protein_g": 12.92,
+      "fat_g": 16.4,
+      "carbs_g": 22.5
+    },
+    "serving": {
+      "grams": 128.0,
+      "description": "item"
+    }
+  },
+  "crullers": {
+    "matched_description": "Doughnuts, french crullers, glazed",
+    "fdc_id": 172756,
+    "data_type": "SR Legacy",
+    "match_score": 0.887,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 412.0,
+      "protein_g": 3.1,
+      "fat_g": 18.3,
+      "carbs_g": 59.5
+    },
+    "serving": {
+      "grams": 41.0,
+      "description": "cruller (3\" dia)"
+    }
+  },
+  "donuts": {
+    "matched_description": "Doughnuts, french crullers, glazed",
+    "fdc_id": 172756,
+    "data_type": "SR Legacy",
+    "match_score": 0.802,
+    "token_coverage": 0.9,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 412.0,
+      "protein_g": 3.1,
+      "fat_g": 18.3,
+      "carbs_g": 59.5
+    },
+    "serving": {
+      "grams": 41.0,
+      "description": "cruller (3\" dia)"
+    }
+  },
+  "dumplings": {
+    "matched_description": "Babyfood, dinner, vegetables and dumplings and beef, junior",
+    "fdc_id": 173488,
+    "data_type": "SR Legacy",
+    "match_score": 0.869,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 48.0,
+      "protein_g": 2.1,
+      "fat_g": 0.8,
+      "carbs_g": 8.0
+    },
+    "serving": {
+      "grams": 170.0,
+      "description": "jar"
+    }
+  },
+  "edamame": {
+    "matched_description": "Edamame, frozen, prepared",
+    "fdc_id": 168411,
+    "data_type": "SR Legacy",
+    "match_score": 0.9,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 121.0,
+      "protein_g": 11.91,
+      "fat_g": 5.2,
+      "carbs_g": 8.91
+    },
+    "serving": {
+      "grams": 155.0,
+      "description": "cup"
+    }
+  },
+  "eggs_benedict": {
+    "matched_description": "Egg, Benedict",
+    "fdc_id": 2707180,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.958,
+    "token_coverage": 0.95,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 13.8,
+      "fat_g": 22.1,
+      "carbs_g": 8.48,
+      "calories_kcal": 288.0
+    },
+    "serving": {
+      "grams": 155.0,
+      "description": "1 egg"
+    }
+  },
+  "falafel": {
+    "matched_description": "Falafel, home-prepared",
+    "fdc_id": 172455,
+    "data_type": "SR Legacy",
+    "match_score": 0.9,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 333.0,
+      "protein_g": 13.31,
+      "fat_g": 17.8,
+      "carbs_g": 31.84
+    },
+    "serving": {
+      "grams": 17.0,
+      "description": "patty (approx 2-1/4\" dia)"
+    }
+  },
+  "foie_gras": {
+    "matched_description": "Pate de foie gras, canned (goose liver pate), smoked",
+    "fdc_id": 171100,
+    "data_type": "SR Legacy",
+    "match_score": 0.883,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 462.0,
+      "protein_g": 11.4,
+      "fat_g": 43.84,
+      "carbs_g": 4.67
+    },
+    "serving": {
+      "grams": 28.4,
+      "description": "oz"
+    }
+  },
+  "french_bread": {
+    "matched_description": "Bread, french or vienna (includes sourdough)",
+    "fdc_id": 172675,
+    "data_type": "SR Legacy",
+    "match_score": 0.9,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 272.0,
+      "protein_g": 10.75,
+      "fat_g": 2.42,
+      "carbs_g": 51.88
+    },
+    "serving": {
+      "grams": 139.0,
+      "description": "slice"
+    }
+  },
+  "french_fries": {
+    "matched_description": "Potato, french fries, NFS",
+    "fdc_id": 2709456,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 2.5,
+      "fat_g": 14.1,
+      "carbs_g": 23.2,
+      "calories_kcal": 225.0
+    },
+    "serving": {
+      "grams": 110.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "french_toast": {
+    "matched_description": "BURGER KING, french toast sticks",
+    "fdc_id": 172077,
+    "data_type": "SR Legacy",
+    "match_score": 0.91,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 349.0,
+      "protein_g": 6.0,
+      "fat_g": 17.74,
+      "carbs_g": 41.21
+    },
+    "serving": {
+      "grams": 107.0,
+      "description": "serving 5 sticks"
+    }
+  },
+  "fried_calamari": {
+    "matched_description": "Calamari, fried",
+    "fdc_id": 2706334,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 1.0,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 13.8,
+      "fat_g": 13.2,
+      "carbs_g": 14.1,
+      "calories_kcal": 234.0
+    },
+    "serving": {
+      "grams": 135.0,
+      "description": "1 cup"
+    }
+  },
+  "fried_chicken": {
+    "matched_description": "Chicken, meatless, breaded, fried",
+    "fdc_id": 167719,
+    "data_type": "SR Legacy",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 234.0,
+      "protein_g": 21.28,
+      "fat_g": 12.77,
+      "carbs_g": 8.51
+    },
+    "serving": {
+      "grams": 168.0,
+      "description": "cup pieces"
+    }
+  },
+  "fried_fish": {
+    "matched_description": "Fish, bass, fried",
+    "fdc_id": 2706298,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.95,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 15.9,
+      "fat_g": 13.7,
+      "carbs_g": 11.7,
+      "calories_kcal": 238.0
+    },
+    "serving": {
+      "grams": 135.0,
+      "description": "1 cup"
+    }
+  },
+  "fried_rice": {
+    "matched_description": "Restaurant, Chinese, fried rice, without meat",
+    "fdc_id": 167668,
+    "data_type": "SR Legacy",
+    "match_score": 0.9,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 174.0,
+      "protein_g": 4.05,
+      "fat_g": 2.96,
+      "carbs_g": 32.79
+    },
+    "serving": {
+      "grams": 137.0,
+      "description": "cup"
+    }
+  },
+  "fried_shrimp": {
+    "matched_description": "Shrimp, fried",
+    "fdc_id": 2706364,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 1.0,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 12.3,
+      "fat_g": 12.9,
+      "carbs_g": 12.4,
+      "calories_kcal": 218.0
+    },
+    "serving": {
+      "grams": 135.0,
+      "description": "1 cup"
+    }
+  },
+  "frozen_yogurt": {
+    "matched_description": "Frozen yogurt sandwich",
+    "fdc_id": 2705456,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.95,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 3.9,
+      "fat_g": 6.25,
+      "carbs_g": 34.4,
+      "calories_kcal": 204.0
+    },
+    "serving": {
+      "grams": 75.0,
+      "description": "1 sandwich"
+    }
+  },
+  "garlic_bread": {
+    "matched_description": "Garlic bread, frozen",
+    "fdc_id": 167939,
+    "data_type": "SR Legacy",
+    "match_score": 0.95,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 350.0,
+      "protein_g": 8.36,
+      "fat_g": 16.61,
+      "carbs_g": 41.72
+    },
+    "serving": {
+      "grams": 59.0,
+      "description": "slice"
+    }
+  },
+  "gnocchi": {
+    "matched_description": "Gnocchi, cheese",
+    "fdc_id": 2708721,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 8.51,
+      "fat_g": 12.0,
+      "carbs_g": 9.38,
+      "calories_kcal": 178.0
+    },
+    "serving": {
+      "grams": 70.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "gratin": {
+    "matched_description": "Chicken and vegetables au gratin with rice, diet frozen entree",
+    "fdc_id": 2707111,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.865,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 10.7,
+      "fat_g": 5.41,
+      "carbs_g": 7.24,
+      "calories_kcal": 120.0
+    },
+    "serving": {
+      "grams": 258.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "green_salad": {
+    "matched_description": "Salad dressing, green goddess, regular",
+    "fdc_id": 169057,
+    "data_type": "SR Legacy",
+    "match_score": 0.91,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 427.0,
+      "protein_g": 1.9,
+      "fat_g": 43.33,
+      "carbs_g": 7.36
+    },
+    "serving": {
+      "grams": 245.0,
+      "description": "cup"
+    }
+  },
+  "grilled_cheese_sandwich": {
+    "matched_description": "Grilled cheese sandwich, NFS",
+    "fdc_id": 2705801,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.963,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 11.0,
+      "fat_g": 20.8,
+      "carbs_g": 28.1,
+      "calories_kcal": 343.0
+    },
+    "serving": {
+      "grams": 116.0,
+      "description": "1 sandwich"
+    }
+  },
+  "grilled_salmon": {
+    "matched_description": "Fish, salmon, grilled",
+    "fdc_id": 2706287,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.95,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 25.9,
+      "fat_g": 16.5,
+      "carbs_g": 0.0,
+      "calories_kcal": 259.0
+    },
+    "serving": {
+      "grams": 210.0,
+      "description": "1 large fillet"
+    }
+  },
+  "hamburger": {
+    "matched_description": "Hamburger (McDonalds)",
+    "fdc_id": 2706924,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 13.3,
+      "fat_g": 10.2,
+      "carbs_g": 29.6,
+      "calories_kcal": 263.0
+    },
+    "serving": {
+      "grams": 100.0,
+      "description": "1 hamburger"
+    }
+  },
+  "hot_and_sour_soup": {
+    "matched_description": "Soup, hot and sour, Chinese restaurant",
+    "fdc_id": 174808,
+    "data_type": "SR Legacy",
+    "match_score": 0.95,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 39.0,
+      "protein_g": 2.58,
+      "fat_g": 1.21,
+      "carbs_g": 4.35
+    },
+    "serving": {
+      "grams": 233.0,
+      "description": "cup"
+    }
+  },
+  "hot_dog": {
+    "matched_description": "Pickle relish, hot dog",
+    "fdc_id": 168560,
+    "data_type": "SR Legacy",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 91.0,
+      "protein_g": 1.5,
+      "fat_g": 0.46,
+      "carbs_g": 23.35
+    },
+    "serving": {
+      "grams": 122.0,
+      "description": "cup"
+    }
+  },
+  "hummus": {
+    "matched_description": "Hummus, flavored",
+    "fdc_id": 2707403,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 7.22,
+      "fat_g": 17.1,
+      "carbs_g": 14.6,
+      "calories_kcal": 241.0
+    },
+    "serving": {
+      "grams": 70.0,
+      "description": "1 individual container"
+    }
+  },
+  "ice_cream": {
+    "matched_description": "Ice cream sandwich",
+    "fdc_id": 172226,
+    "data_type": "SR Legacy",
+    "match_score": 0.95,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 237.0,
+      "protein_g": 4.29,
+      "fat_g": 8.57,
+      "carbs_g": 37.14
+    },
+    "serving": {
+      "grams": 70.0,
+      "description": "serving"
+    }
+  },
+  "kung_pao_chicken": {
+    "matched_description": "Kung pao chicken",
+    "fdc_id": 2706796,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 1.0,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 9.76,
+      "fat_g": 6.98,
+      "carbs_g": 6.87,
+      "calories_kcal": 129.0
+    },
+    "serving": {
+      "grams": 162.0,
+      "description": "1 cup"
+    }
+  },
+  "lasagna": {
+    "matched_description": "Lasagna, cheese, frozen, prepared",
+    "fdc_id": 173333,
+    "data_type": "SR Legacy",
+    "match_score": 0.887,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 130.0,
+      "protein_g": 6.54,
+      "fat_g": 5.33,
+      "carbs_g": 13.84
+    },
+    "serving": {
+      "grams": 225.0,
+      "description": "cup 1 serving"
+    }
+  },
+  "macaroni_and_cheese": {
+    "matched_description": "Babyfood, macaroni and cheese, toddler",
+    "fdc_id": 172259,
+    "data_type": "SR Legacy",
+    "match_score": 0.94,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 82.0,
+      "protein_g": 3.5,
+      "fat_g": 2.6,
+      "carbs_g": 11.2
+    },
+    "serving": {
+      "grams": 113.0,
+      "description": "container"
+    }
+  },
+  "meat_loaf": {
+    "matched_description": "Luncheon meat, loaf type",
+    "fdc_id": 2706214,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 11.2,
+      "fat_g": 16.0,
+      "carbs_g": 8.46,
+      "calories_kcal": 225.0
+    },
+    "serving": {
+      "grams": 140.0,
+      "description": "1 cup, pieces"
+    }
+  },
+  "minestrone": {
+    "matched_description": "Soup, minestrone",
+    "fdc_id": 2710114,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 1.71,
+      "fat_g": 0.5,
+      "carbs_g": 7.3,
+      "calories_kcal": 40.0
+    },
+    "serving": {
+      "grams": 525.0,
+      "description": "1 can"
+    }
+  },
+  "muffin": {
+    "matched_description": "Artificial Blueberry Muffin Mix, dry",
+    "fdc_id": 175078,
+    "data_type": "SR Legacy",
+    "match_score": 0.88,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 407.0,
+      "protein_g": 4.7,
+      "fat_g": 8.7,
+      "carbs_g": 77.45
+    },
+    "serving": {
+      "grams": 31.0,
+      "description": "muffin"
+    }
+  },
+  "mussels": {
+    "matched_description": "Mussels",
+    "fdc_id": 2706350,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 1.0,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 15.1,
+      "fat_g": 2.84,
+      "carbs_g": 4.67,
+      "calories_kcal": 109.0
+    },
+    "serving": {
+      "grams": 135.0,
+      "description": "1 cup"
+    }
+  },
+  "nachos": {
+    "matched_description": "Nachos, chicken",
+    "fdc_id": 2708580,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 11.2,
+      "fat_g": 13.3,
+      "carbs_g": 19.9,
+      "calories_kcal": 242.0
+    },
+    "serving": {
+      "grams": 250.0,
+      "description": "1 order"
+    }
+  },
+  "natto": {
+    "matched_description": "Natto",
+    "fdc_id": 2707440,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 1.0,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 19.4,
+      "fat_g": 11.0,
+      "carbs_g": 12.7,
+      "calories_kcal": 211.0
+    },
+    "serving": {
+      "grams": 176.0,
+      "description": "1 cup"
+    }
+  },
+  "oatmeal": {
+    "matched_description": "Bread, oatmeal",
+    "fdc_id": 172678,
+    "data_type": "SR Legacy",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 269.0,
+      "protein_g": 8.4,
+      "fat_g": 4.4,
+      "carbs_g": 48.5
+    },
+    "serving": {
+      "grams": 28.4,
+      "description": "oz"
+    }
+  },
+  "onion_rings": {
+    "matched_description": "Fried onion rings",
+    "fdc_id": 2710055,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.95,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 4.19,
+      "fat_g": 19.8,
+      "carbs_g": 39.9,
+      "calories_kcal": 352.0
+    },
+    "serving": {
+      "grams": 120.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "oysters": {
+    "matched_description": "Emu, oyster, raw",
+    "fdc_id": 172838,
+    "data_type": "SR Legacy",
+    "match_score": 0.815,
+    "token_coverage": 0.9,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 141.0,
+      "protein_g": 22.81,
+      "fat_g": 4.86,
+      "carbs_g": 0.0
+    },
+    "serving": {
+      "grams": 300.0,
+      "description": "steak"
+    }
+  },
+  "pad_thai": {
+    "matched_description": "Pad Thai, meatless",
+    "fdc_id": 2708805,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.95,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 5.79,
+      "fat_g": 9.2,
+      "carbs_g": 16.3,
+      "calories_kcal": 165.0
+    },
+    "serving": {
+      "grams": 200.0,
+      "description": "1 cup"
+    }
+  },
+  "paella": {
+    "matched_description": "Paella, NFS",
+    "fdc_id": 2706723,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 9.53,
+      "fat_g": 7.17,
+      "carbs_g": 15.8,
+      "calories_kcal": 169.0
+    },
+    "serving": {
+      "grams": 300.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "pancakes": {
+    "matched_description": "Potato pancakes",
+    "fdc_id": 170092,
+    "data_type": "SR Legacy",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 268.0,
+      "protein_g": 6.08,
+      "fat_g": 14.76,
+      "carbs_g": 27.81
+    },
+    "serving": {
+      "grams": 37.0,
+      "description": "medium 3-1/4 in. x 3-5/8 in., 5/8 in. thick."
+    }
+  },
+  "parfait": {
+    "matched_description": "Yogurt parfait, with fruit",
+    "fdc_id": 2705450,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.887,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 5.25,
+      "fat_g": 2.18,
+      "carbs_g": 16.1,
+      "calories_kcal": 104.0
+    },
+    "serving": {
+      "grams": 150.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "peking_duck": {
+    "matched_description": "Duck, Peking",
+    "fdc_id": 2706141,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 1.0,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 5.32,
+      "fat_g": 11.8,
+      "carbs_g": 6.47,
+      "calories_kcal": 154.0
+    },
+    "serving": {
+      "grams": 140.0,
+      "description": "1 cup, diced, cooked"
+    }
+  },
+  "pilaf": {
+    "matched_description": "Rice pilaf",
+    "fdc_id": 2709077,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 3.29,
+      "fat_g": 3.03,
+      "carbs_g": 24.1,
+      "calories_kcal": 137.0
+    },
+    "serving": {
+      "grams": 206.0,
+      "description": "1 cup"
+    }
+  },
+  "pizza": {
+    "matched_description": "Dessert pizza",
+    "fdc_id": 2708008,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 1.84,
+      "fat_g": 7.53,
+      "carbs_g": 32.4,
+      "calories_kcal": 204.0
+    },
+    "serving": {
+      "grams": 1188.0,
+      "description": "1 pizza (12\" dia)"
+    }
+  },
+  "popcorn": {
+    "matched_description": "KFC, Popcorn Chicken",
+    "fdc_id": 170737,
+    "data_type": "SR Legacy",
+    "match_score": 0.9,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 351.0,
+      "protein_g": 17.67,
+      "fat_g": 21.74,
+      "carbs_g": 21.18
+    },
+    "serving": {
+      "grams": 56.0,
+      "description": "pieces"
+    }
+  },
+  "pork_belly": {
+    "matched_description": "Pork, belly",
+    "fdc_id": 2705901,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 1.0,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 26.6,
+      "fat_g": 32.2,
+      "carbs_g": 0.0,
+      "calories_kcal": 404.0
+    },
+    "serving": {
+      "grams": 135.0,
+      "description": "1 cup"
+    }
+  },
+  "pork_chop": {
+    "matched_description": "HORMEL ALWAYS TENDER, Center Cut Chops, Fresh Pork",
+    "fdc_id": 168319,
+    "data_type": "SR Legacy",
+    "match_score": 0.845,
+    "token_coverage": 0.95,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 167.0,
+      "protein_g": 18.74,
+      "fat_g": 9.62,
+      "carbs_g": 0.84
+    },
+    "serving": {
+      "grams": 112.0,
+      "description": "oz"
+    }
+  },
+  "prime_rib": {
+    "matched_description": "Beef, rib, whole (ribs 6-12), separable lean and fat, trimmed to 1/8\" fat, prime, raw",
+    "fdc_id": 169503,
+    "data_type": "SR Legacy",
+    "match_score": 0.868,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 355.0,
+      "protein_g": 16.15,
+      "fat_g": 31.66,
+      "carbs_g": 0.0
+    },
+    "serving": {
+      "grams": 453.6,
+      "description": "lb"
+    }
+  },
+  "raisin_bread": {
+    "matched_description": "Bread, raisin, enriched",
+    "fdc_id": 172680,
+    "data_type": "SR Legacy",
+    "match_score": 0.95,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 274.0,
+      "protein_g": 7.9,
+      "fat_g": 4.4,
+      "carbs_g": 52.3
+    },
+    "serving": {
+      "grams": 32.0,
+      "description": "slice, large"
+    }
+  },
+  "ramen": {
+    "matched_description": "Soup, ramen noodle, any flavor, dry",
+    "fdc_id": 171177,
+    "data_type": "SR Legacy",
+    "match_score": 0.875,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 440.0,
+      "protein_g": 10.17,
+      "fat_g": 17.59,
+      "carbs_g": 60.26
+    },
+    "serving": {
+      "grams": 81.0,
+      "description": "package without flavor packet"
+    }
+  },
+  "ravioli": {
+    "matched_description": "Ravioli, cheese-filled, no sauce",
+    "fdc_id": 2708767,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.88,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 7.39,
+      "fat_g": 6.25,
+      "carbs_g": 21.7,
+      "calories_kcal": 173.0
+    },
+    "serving": {
+      "grams": 160.0,
+      "description": "1 cup"
+    }
+  },
+  "rice": {
+    "matched_description": "Dirty rice",
+    "fdc_id": 2709078,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 5.12,
+      "fat_g": 2.25,
+      "carbs_g": 17.2,
+      "calories_kcal": 112.0
+    },
+    "serving": {
+      "grams": 198.0,
+      "description": "1 cup"
+    }
+  },
+  "rice_vermicelli": {
+    "matched_description": "Rice and vermicelli mix, beef flavor, unprepared",
+    "fdc_id": 168949,
+    "data_type": "SR Legacy",
+    "match_score": 0.893,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 359.0,
+      "protein_g": 10.84,
+      "fat_g": 1.27,
+      "carbs_g": 76.02
+    },
+    "serving": {
+      "grams": 61.0,
+      "description": "cup"
+    }
+  },
+  "roast_chicken": {
+    "matched_description": "Chicken breast, roll, oven-roasted",
+    "fdc_id": 174608,
+    "data_type": "SR Legacy",
+    "match_score": 0.868,
+    "token_coverage": 0.95,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 134.0,
+      "protein_g": 14.59,
+      "fat_g": 7.65,
+      "carbs_g": 1.79
+    },
+    "serving": {
+      "grams": 56.0,
+      "description": "serving 2 oz"
+    }
+  },
+  "roast_duck": {
+    "matched_description": "Duck, domesticated, meat only, cooked, roasted",
+    "fdc_id": 172411,
+    "data_type": "SR Legacy",
+    "match_score": 0.858,
+    "token_coverage": 0.95,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 201.0,
+      "protein_g": 23.48,
+      "fat_g": 11.2,
+      "carbs_g": 0.0
+    },
+    "serving": {
+      "grams": 221.0,
+      "description": "duck"
+    }
+  },
+  "roll_bread": {
+    "matched_description": "Bread, roll, Mexican, bollilo",
+    "fdc_id": 174078,
+    "data_type": "SR Legacy",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 318.0,
+      "protein_g": 10.65,
+      "fat_g": 5.8,
+      "carbs_g": 55.77
+    },
+    "serving": {
+      "grams": 98.0,
+      "description": "piece"
+    }
+  },
+  "sandwiches": {
+    "matched_description": "Crackers, sandwich",
+    "fdc_id": 2708171,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.84,
+    "token_coverage": 0.9,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 11.5,
+      "fat_g": 24.5,
+      "carbs_g": 58.4,
+      "calories_kcal": 494.0
+    },
+    "serving": {
+      "grams": 70.0,
+      "description": "1 cup, NFS"
+    }
+  },
+  "sausage": {
+    "matched_description": "Blood sausage",
+    "fdc_id": 171618,
+    "data_type": "SR Legacy",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 379.0,
+      "protein_g": 14.6,
+      "fat_g": 34.5,
+      "carbs_g": 1.29
+    },
+    "serving": {
+      "grams": 100.0,
+      "description": "slices"
+    }
+  },
+  "scallops": {
+    "matched_description": "Scallops, fried",
+    "fdc_id": 2706359,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 11.1,
+      "fat_g": 12.5,
+      "carbs_g": 14.1,
+      "calories_kcal": 217.0
+    },
+    "serving": {
+      "grams": 135.0,
+      "description": "1 cup"
+    }
+  },
+  "scrambled_egg": {
+    "matched_description": "Egg omelet or scrambled egg, made with butter",
+    "fdc_id": 2707201,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.887,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 11.6,
+      "fat_g": 14.6,
+      "carbs_g": 0.9,
+      "calories_kcal": 182.0
+    },
+    "serving": {
+      "grams": 135.0,
+      "description": "1 cup"
+    }
+  },
+  "seasoned_beef_with_potatoes": {
+    "matched_description": "Stewed, seasoned, ground beef with potatoes, Mexican style",
+    "fdc_id": 2706479,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 10.4,
+      "fat_g": 7.88,
+      "carbs_g": 5.6,
+      "calories_kcal": 137.0
+    },
+    "serving": {
+      "grams": 222.0,
+      "description": "1 cup"
+    }
+  },
+  "simmered_pork": {
+    "matched_description": "Pork, fresh, variety meats and by-products, chitterlings, cooked, simmered",
+    "fdc_id": 167856,
+    "data_type": "SR Legacy",
+    "match_score": 0.88,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 233.0,
+      "protein_g": 12.49,
+      "fat_g": 20.32,
+      "carbs_g": 0.0
+    },
+    "serving": {
+      "grams": 85.0,
+      "description": "oz"
+    }
+  },
+  "soba_noodle": {
+    "matched_description": "Noodles, japanese, soba, cooked",
+    "fdc_id": 168907,
+    "data_type": "SR Legacy",
+    "match_score": 0.882,
+    "token_coverage": 0.95,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 99.0,
+      "protein_g": 5.06,
+      "fat_g": 0.1,
+      "carbs_g": 21.44
+    },
+    "serving": {
+      "grams": 114.0,
+      "description": "cup"
+    }
+  },
+  "steak": {
+    "matched_description": "CRACKER BARREL, steak fries",
+    "fdc_id": 167669,
+    "data_type": "SR Legacy",
+    "match_score": 0.887,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 255.0,
+      "protein_g": 3.26,
+      "fat_g": 13.18,
+      "carbs_g": 30.87
+    },
+    "serving": {
+      "grams": 198.0,
+      "description": "serving"
+    }
+  },
+  "stew": {
+    "matched_description": "Stew, chicken",
+    "fdc_id": 2706678,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 9.24,
+      "fat_g": 2.34,
+      "carbs_g": 6.29,
+      "calories_kcal": 84.0
+    },
+    "serving": {
+      "grams": 255.0,
+      "description": "1 cup"
+    }
+  },
+  "sweet_and_sour_pork": {
+    "matched_description": "Restaurant, Chinese, sweet and sour pork",
+    "fdc_id": 168082,
+    "data_type": "SR Legacy",
+    "match_score": 0.95,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 270.0,
+      "protein_g": 8.91,
+      "fat_g": 15.66,
+      "carbs_g": 23.34
+    },
+    "serving": {
+      "grams": 609.0,
+      "description": "order"
+    }
+  },
+  "tacos": {
+    "matched_description": "TACO BELL, Nachos",
+    "fdc_id": 170336,
+    "data_type": "SR Legacy",
+    "match_score": 0.815,
+    "token_coverage": 0.9,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 350.0,
+      "protein_g": 4.32,
+      "fat_g": 21.5,
+      "carbs_g": 34.91
+    },
+    "serving": {
+      "grams": 80.0,
+      "description": "serving"
+    }
+  },
+  "toast": {
+    "matched_description": "Crackers, rusk toast",
+    "fdc_id": 174981,
+    "data_type": "SR Legacy",
+    "match_score": 0.9,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 407.0,
+      "protein_g": 13.5,
+      "fat_g": 7.2,
+      "carbs_g": 72.3
+    },
+    "serving": {
+      "grams": 14.2,
+      "description": "oz"
+    }
+  },
+  "tortilla": {
+    "matched_description": "Tortilla, corn",
+    "fdc_id": 2707823,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 5.7,
+      "fat_g": 2.85,
+      "carbs_g": 44.6,
+      "calories_kcal": 218.0
+    },
+    "serving": {
+      "grams": 77.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "vegetable_tempura": {
+    "matched_description": "Vegetable tempura",
+    "fdc_id": 2710065,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 1.0,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 3.81,
+      "fat_g": 15.8,
+      "carbs_g": 20.4,
+      "calories_kcal": 239.0
+    },
+    "serving": {
+      "grams": 63.0,
+      "description": "1 cup"
+    }
+  },
+  "waffles": {
+    "matched_description": "Waffle, chocolate",
+    "fdc_id": 2708327,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.84,
+    "token_coverage": 0.9,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 9.07,
+      "fat_g": 22.7,
+      "carbs_g": 48.6,
+      "calories_kcal": 437.0
+    },
+    "serving": {
+      "grams": 135.0,
+      "description": "1 thick / Belgian waffle"
+    }
+  },
+  "wonton_soup": {
+    "matched_description": "Soup, wonton, Chinese restaurant",
+    "fdc_id": 171821,
+    "data_type": "SR Legacy",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 32.0,
+      "protein_g": 2.08,
+      "fat_g": 0.26,
+      "carbs_g": 5.25
+    },
+    "serving": {
+      "grams": 223.0,
+      "description": "cup"
+    }
+  },
+  "adobo": {
+    "matched_description": "Adobo, with noodles",
+    "fdc_id": 2708809,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.9,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 16.9,
+      "fat_g": 7.66,
+      "carbs_g": 8.14,
+      "calories_kcal": 172.0
+    },
+    "serving": {
+      "grams": 224.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "baked salmon": {
+    "matched_description": "Fish, salmon, baked or broiled",
+    "fdc_id": 2706286,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.91,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 25.4,
+      "fat_g": 18.4,
+      "carbs_g": 0.01,
+      "calories_kcal": 274.0
+    },
+    "serving": {
+      "grams": 210.0,
+      "description": "1 large fillet"
+    }
+  },
+  "baklava": {
+    "matched_description": "Baklava",
+    "fdc_id": 2708044,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 1.0,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 6.58,
+      "fat_g": 29.3,
+      "carbs_g": 37.6,
+      "calories_kcal": 440.0
+    },
+    "serving": {
+      "grams": 80.0,
+      "description": "1 piece"
+    }
+  },
+  "beef_bowl": {
+    "matched_description": "Ramen bowl with beef",
+    "fdc_id": 2709154,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 6.81,
+      "fat_g": 5.19,
+      "carbs_g": 15.4,
+      "calories_kcal": 137.0
+    },
+    "serving": {
+      "grams": 245.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "bibimbap": {
+    "matched_description": "Bibimbap, Korean",
+    "fdc_id": 2708950,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 5.5,
+      "fat_g": 2.44,
+      "carbs_g": 8.11,
+      "calories_kcal": 76.0
+    },
+    "serving": {
+      "grams": 162.0,
+      "description": "1 cup"
+    }
+  },
+  "churro": {
+    "matched_description": "Churros",
+    "fdc_id": 2708070,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.915,
+    "token_coverage": 0.9,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 6.05,
+      "fat_g": 22.2,
+      "carbs_g": 48.9,
+      "calories_kcal": 419.0
+    },
+    "serving": {
+      "grams": 45.0,
+      "description": "1 regular"
+    }
+  },
+  "escargots": {
+    "matched_description": "Escargot",
+    "fdc_id": 2706368,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.915,
+    "token_coverage": 0.9,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 20.0,
+      "fat_g": 6.91,
+      "carbs_g": 2.48,
+      "calories_kcal": 158.0
+    },
+    "serving": {
+      "grams": 85.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "guacamole": {
+    "matched_description": "Guacamole, NFS",
+    "fdc_id": 2709307,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 1.95,
+      "fat_g": 14.2,
+      "carbs_g": 8.45,
+      "calories_kcal": 155.0
+    },
+    "serving": {
+      "grams": 70.0,
+      "description": "1 individual container"
+    }
+  },
+  "haupia": {
+    "matched_description": "Haupia",
+    "fdc_id": 2710316,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 1.0,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 1.98,
+      "fat_g": 20.4,
+      "carbs_g": 23.5,
+      "calories_kcal": 274.0
+    },
+    "serving": {
+      "grams": 213.0,
+      "description": "1 cup"
+    }
+  },
+  "macaroni_salad": {
+    "matched_description": "Macaroni or pasta salad with cheese",
+    "fdc_id": 2708947,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.9,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 6.89,
+      "fat_g": 14.4,
+      "carbs_g": 21.8,
+      "calories_kcal": 246.0
+    },
+    "serving": {
+      "grams": 204.0,
+      "description": "1 cup"
+    }
+  },
+  "pho": {
+    "matched_description": "Soup, pho, with meat",
+    "fdc_id": 2707124,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.887,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 5.81,
+      "fat_g": 3.33,
+      "carbs_g": 5.6,
+      "calories_kcal": 77.0
+    },
+    "serving": {
+      "grams": 245.0,
+      "description": "1 cup"
+    }
+  },
+  "red_velvet_cake": {
+    "matched_description": "Cake or cupcake, red velvet",
+    "fdc_id": 2707884,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.94,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 2.79,
+      "fat_g": 14.6,
+      "carbs_g": 54.4,
+      "calories_kcal": 355.0
+    },
+    "serving": {
+      "grams": 200.0,
+      "description": "1 piece/slice, any size"
+    }
+  },
+  "scone": {
+    "matched_description": "Scone",
+    "fdc_id": 2707808,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 1.0,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 6.67,
+      "fat_g": 18.4,
+      "carbs_g": 48.1,
+      "calories_kcal": 382.0
+    },
+    "serving": {
+      "grams": 70.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "strawberry_shortcake": {
+    "matched_description": "Cake, strawberry shortcake",
+    "fdc_id": 2707896,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.95,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 3.31,
+      "fat_g": 4.73,
+      "carbs_g": 40.1,
+      "calories_kcal": 214.0
+    },
+    "serving": {
+      "grams": 175.0,
+      "description": "1 piece/slice, any size"
+    }
+  },
+  "tempura": {
+    "matched_description": "Vegetable tempura",
+    "fdc_id": 2710065,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 3.81,
+      "fat_g": 15.8,
+      "carbs_g": 20.4,
+      "calories_kcal": 239.0
+    },
+    "serving": {
+      "grams": 63.0,
+      "description": "1 cup"
+    }
+  },
+  "jambalaya": {
+    "matched_description": "Jambalaya with meat and rice",
+    "fdc_id": 2706727,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.88,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 13.8,
+      "fat_g": 7.97,
+      "carbs_g": 8.65,
+      "calories_kcal": 161.0
+    },
+    "serving": {
+      "grams": 305.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "almond_jelly": {
+    "matched_description": "Almond butter and jelly sandwich, on white bread",
+    "fdc_id": 2707564,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.887,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 11.0,
+      "fat_g": 17.0,
+      "carbs_g": 44.9,
+      "calories_kcal": 374.0
+    },
+    "serving": {
+      "grams": 112.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "ayam_bakar": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "ayam_goreng": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "babi_guling": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "baby_back_ribs": {
+    "matched_description": "Beef, rib, back ribs, bone-in, separable lean only, trimmed to 0\" fat, choice, raw",
+    "fdc_id": 172147,
+    "data_type": "SR Legacy",
+    "match_score": 0.597,
+    "token_coverage": 0.667,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 252.0,
+      "protein_g": 18.72,
+      "fat_g": 19.36,
+      "carbs_g": 0.64
+    },
+    "serving": {
+      "grams": 1604.0,
+      "description": "ribs"
+    }
+  },
+  "bak_kut_teh": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "ball_shaped_bun_with_pork": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "barbecued_red_pork_in_sauce_with_rice": {
+    "matched_description": "Pulled pork in barbecue sauce",
+    "fdc_id": 173344,
+    "data_type": "SR Legacy",
+    "match_score": 0.624,
+    "token_coverage": 0.557,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 168.0,
+      "protein_g": 13.19,
+      "fat_g": 4.42,
+      "carbs_g": 18.74
+    },
+    "serving": {
+      "grams": 249.0,
+      "description": "cup"
+    }
+  },
+  "bean_curd_family_style": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "beef curry": {
+    "matched_description": "Beef curry",
+    "fdc_id": 2706388,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 1.0,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 7.57,
+      "fat_g": 6.57,
+      "carbs_g": 6.53,
+      "calories_kcal": 113.0
+    },
+    "serving": {
+      "grams": 240.0,
+      "description": "1 cup"
+    }
+  },
+  "beef_carpaccio": {
+    "matched_description": "Bologna, beef",
+    "fdc_id": 172012,
+    "data_type": "SR Legacy",
+    "match_score": 0.575,
+    "token_coverage": 0.5,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 299.0,
+      "protein_g": 10.91,
+      "fat_g": 26.13,
+      "carbs_g": 4.29
+    },
+    "serving": {
+      "grams": 30.0,
+      "description": "slice"
+    }
+  },
+  "beef_in_oyster_sauce": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "beef_tartare": {
+    "matched_description": null,
+    "fdc_id": 2706394,
+    "data_type": "SR Legacy",
+    "match_score": 0.575,
+    "token_coverage": 0.5,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 299.0,
+      "protein_g": 17.45,
+      "fat_g": 15.6,
+      "carbs_g": 0.34
+    },
+    "serving": {
+      "grams": 30.0,
+      "description": "slice"
+    }
+  },
+  "beet_salad": {
+    "matched_description": "Beets, pickled",
+    "fdc_id": 2710071,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.532,
+    "token_coverage": 0.45,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 65.0,
+      "protein_g": 0.8,
+      "fat_g": 0.08,
+      "carbs_g": 16.28
+    },
+    "serving": {
+      "grams": 136.0,
+      "description": "cup"
+    }
+  },
+  "boiled_chicken_and_vegetables": {
+    "matched_description": "Restaurant, Chinese, chicken and vegetables",
+    "fdc_id": 167678,
+    "data_type": "SR Legacy",
+    "match_score": 0.757,
+    "token_coverage": 0.75,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 95.0,
+      "protein_g": 8.18,
+      "fat_g": 4.56,
+      "carbs_g": 5.38
+    },
+    "serving": {
+      "grams": 693.0,
+      "description": "order"
+    }
+  },
+  "boiled_fish": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "boned_sliced_hainan_style_chicken_with_marinated_rice": {
+     "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "braised_pork_meat_ball_with_napa_cabbage": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "broiled_eel_bowl": {
+    "matched_description": "Fish, eel",
+    "fdc_id": 2706247,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.433,
+    "token_coverage": 0.333,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 20.6,
+      "fat_g": 17.1,
+      "carbs_g": 7.79,
+      "calories_kcal": 273.0
+    },
+    "serving": {
+      "grams": 135.0,
+      "description": "1 cup"
+    }
+  },
+  "bruschetta": {
+    "matched_description": "Bruschetta",
+    "fdc_id": 2707652,
+    "needs_review": false,
+    "per_100g":  {
+      "protein_g": 4.29,
+      "fat_g": 7.61,
+      "carbs_g": 21.32,
+      "calories_kcal": 171.0
+    },
+    "serving": null
+  },
+  "bubur_ayam": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "cabbage_roll": {
+    "matched_description": "Stuffed cabbage rolls with beef and rice",
+    "fdc_id": 2706620,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.85,
+    "token_coverage": 0.95,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 8.3,
+      "fat_g": 5.06,
+      "carbs_g": 8.83,
+      "calories_kcal": 114.0
+    },
+    "serving": {
+      "grams": 202.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "cannoli": {
+    "matched_description": "Pastry, Italian, with cheese",
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 7.52,
+      "fat_g": 10.94,
+      "carbs_g": 35.06,
+      "calories_kcal": 267.0
+    },
+    "serving": {
+      "grams": 85.0,
+      "description": "1 pastry"
+    }
+  },
+  "caprese_salad": {
+    "matched_description": "Mozzarella cheese, tomato, and basil, with oil and vinegar dressing",
+    "fdc_id": 2705818,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.575,
+    "token_coverage": 0.5,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 7.17,
+      "fat_g": 10.87,
+      "carbs_g": 3.86,
+      "calories_kcal": 139.0
+    },
+    "serving": {
+      "grams": 160.0,
+      "description": "1 cup"
+    }
+  },
+  "champon": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "charcoal_boiled_pork_neck": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "chicken_cutlet": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "chicken_n_egg_on_rice": {
+    "matched_description": "Egg rolls, chicken, refrigerated, heated",
+    "fdc_id": 172104,
+    "data_type": "SR Legacy",
+    "match_score": 0.49,
+    "token_coverage": 0.4,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 197.0,
+      "protein_g": 10.44,
+      "fat_g": 4.51,
+      "carbs_g": 28.54
+    },
+    "serving": {
+      "grams": 80.0,
+      "description": "roll"
+    }
+  },
+  "chicken_rice_curry_with_coconut": {
+    "matched_description": "RED COCONUT CURRY CHICKEN WITH JASMINE RICE, RED COCONUT CURRY CHICKEN",
+    "fdc_id": 2154553,
+    "data_type": "SR Legacy",
+    "match_score": 0.635,
+    "token_coverage": 0.6,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 135,
+      "protein_g": 9.12,
+      "fat_g": 4.41,
+      "carbs_g": 14.1
+    },
+    "serving": {
+      "grams": 340.0,
+      "description": "1 individual container"
+    }
+  },
+  "chilled_noodle": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "chinese_pumpkin_pie": {
+    "matched_description": "Pie, pumpkin, commercially prepared",
+    "fdc_id": 172787,
+    "data_type": "SR Legacy",
+    "match_score": 0.679,
+    "token_coverage": 0.667,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 243.0,
+      "protein_g": 3.9,
+      "fat_g": 9.75,
+      "carbs_g": 34.83
+    },
+    "serving": {
+      "grams": 995.0,
+      "description": "pie"
+    }
+  },
+  "chip_butty": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "clear_soup": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "coconut_milk_flavored_crepes_with_shrimp_and_beef": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "coconut_milk_soup": {
+    "matched_description": "THAI COCONUT MILK SOUP",
+    "fdc_id": 2114343,
+    "data_type": "SR Legacy",
+    "match_score": 0.657,
+    "token_coverage": 0.667,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 39,
+      "protein_g": 1.5,
+      "fat_g": 1.79,
+      "carbs_g": 3.33
+    },
+    "serving": {
+      "grams": 240.0,
+      "description": "8 OZA"
+    }
+  },
+  "cold_tofu": {
+    "matched_description": "Tofu yogurt",
+    "fdc_id": 167722,
+    "data_type": "SR Legacy",
+    "match_score": 0.575,
+    "token_coverage": 0.5,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 94.0,
+      "protein_g": 3.5,
+      "fat_g": 1.8,
+      "carbs_g": 15.96
+    },
+    "serving": {
+      "grams": 262.0,
+      "description": "cup"
+    }
+  },
+  "crape": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "creme_brulee": {
+    "matched_description": "Creme brulee",
+    "fdc_id": 2705684,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 1.0,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 4.06,
+      "fat_g": 2.83,
+      "carbs_g": 17.8,
+      "calories_kcal": 113.0
+    },
+    "serving": {
+      "grams": 260.0,
+      "description": "1 cup"
+    }
+  },
+  "croque_madame": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "cup_cakes": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "curry_puff": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "custard_tart": {
+    "matched_description": "Custard",
+    "fdc_id": 2705682,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.575,
+    "token_coverage": 0.5,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 5.08,
+      "fat_g": 3.64,
+      "carbs_g": 11.0,
+      "calories_kcal": 97.0
+    },
+    "serving": {
+      "grams": 260.0,
+      "description": "1 cup"
+    }
+  },
+  "cutlet curry": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "dak_galbi": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "deviled_eggs": {
+    "matched_description": "Egg, deviled",
+    "fdc_id": 2707181,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.958,
+    "token_coverage": 0.95,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 11.5,
+      "fat_g": 15.9,
+      "carbs_g": 1.07,
+      "calories_kcal": 198.0
+    },
+    "serving": {
+      "grams": 30.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "dipping_noodles": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "dish_consisting_of_stir_fried_potato_eggplant_and_green_pepper": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "dry_curry": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "eels_on_rice": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "egg_sunny_side_up": {
+    "matched_description": "Egg, whole, fried no added fat",
+    "fdc_id": 2707156,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.362,
+    "token_coverage": 0.25,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 143.0,
+      "protein_g": 12.36,
+      "fat_g": 9.93,
+      "carbs_g": 0.96
+    },
+    "serving": {
+      "grams": 135.0,
+      "description": "1 cup"
+    }
+  },
+  "eggplant_with_garlic_sauce": {
+    "matched_description": "Eggplant, cooked, boiled, drained, with salt",
+    "fdc_id": 169352,
+    "data_type": "SR Legacy",
+    "match_score": 0.525,
+    "token_coverage": 0.5,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 33.0,
+      "protein_g": 0.83,
+      "fat_g": 0.23,
+      "carbs_g": 8.14
+    },
+    "serving": {
+      "grams": 99.0,
+      "description": "cup (1\" cubes)"
+    }
+  },
+  "eight_treasure_rice": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "filet_mignon": {
+    "matched_description": "Beef, steak, tenderloin",
+    "fdc_id": 2705841,
+    "data_type": "SR Legacy",
+    "match_score": 0.485,
+    "token_coverage": 0.5,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 196.0,
+      "protein_g": 30.46,
+      "fat_g": 8.25,
+      "carbs_g": 0.0
+    },
+    "serving": {
+      "grams": 135.0,
+      "description": "1 cup"
+    }
+  },
+  "fine_white_noodles": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "fish_and_chips": {
+    "matched_description": "FISH & CHIPS",
+    "fdc_id": 1514724,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.433,
+    "token_coverage": 0.333,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 7.59,
+      "fat_g": 9.66,
+      "carbs_g": 24.8,
+      "calories_kcal": 214.0
+    },
+    "serving": {
+      "grams": 145.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "fish_ball_soup": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "fish_shaped_pancake_with_bean_jam": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "french_onion_soup": {
+    "matched_description": "Soup, French onion",
+    "fdc_id": 2710108,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 1.0,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 5.45,
+      "fat_g": 4.47,
+      "carbs_g": 11.8,
+      "calories_kcal": 108.0
+    },
+    "serving": {
+      "grams": 525.0,
+      "description": "1 can"
+    }
+  },
+  "fried_mussel_pancakes": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "fried_noodle": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "fried_pork_dumplings_served_in_soup": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "fried_pork_in_scoop": {
+    "matched_description": "Pork, fresh, loin, blade (chops), bone-in, separable lean only, cooked, pan-fried",
+    "fdc_id": 167868,
+    "data_type": "SR Legacy",
+    "match_score": 0.684,
+    "token_coverage": 0.75,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 222.0,
+      "protein_g": 26.38,
+      "fat_g": 12.14,
+      "carbs_g": 0.0
+    },
+    "serving": {
+      "grams": 215.0,
+      "description": "chop"
+    }
+  },
+  "ganmodoki": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "ginger_pork_saute": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "glutinous_oil_rice": { 
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "glutinous_rice_balls": {
+    "matched_description": "Flour, rice, glutinous",
+    "fdc_id": 1104867,
+    "data_type": "Foundation",
+    "match_score": 0.717,
+    "token_coverage": 0.667,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 358.0,
+      "protein_g": 6.69,
+      "fat_g": 1.16,
+      "carbs_g": 80.1
+    },
+    "serving": {
+      "grams": 30.0,
+      "description": "RACC"
+    }
+  },
+  "goya_chanpuru": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "greek_salad": {
+    "matched_description": "Greek Salad, no dressing",
+    "fdc_id": 2709830,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.925,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 2.75,
+      "fat_g": 2.26,
+      "carbs_g": 4.35,
+      "calories_kcal": 48.0
+    },
+    "serving": {
+      "grams": 105.0,
+      "description": "1 cup"
+    }
+  },
+  "green_curry": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "grilled_eggplant": {
+    "matched_description": "Eggplant dip",
+    "fdc_id": 2710049,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.575,
+    "token_coverage": 0.5,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 4.8,
+      "fat_g": 15.0,
+      "carbs_g": 8.15,
+      "calories_kcal": 183.0
+    },
+    "serving": {
+      "grams": 70.0,
+      "description": "1 individual container"
+    }
+  },
+  "grilled_pacific_saury": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "gulai": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "gyoza": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "ham_cutlet": {
+    "matched_description": "Ham, minced",
+    "fdc_id": 173865,
+    "data_type": "SR Legacy",
+    "match_score": 0.575,
+    "token_coverage": 0.5,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 263.0,
+      "protein_g": 16.28,
+      "fat_g": 20.68,
+      "carbs_g": 1.84
+    },
+    "serving": {
+      "grams": 28.4,
+      "description": "oz"
+    }
+  },
+  "hot_and_sour_fish_and_vegetable_ragout": {
+    "matched_description": "Soup, hot and sour, Chinese restaurant",
+    "fdc_id": 174808,
+    "data_type": "SR Legacy",
+    "match_score": 0.636,
+    "token_coverage": 0.571,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 39.0,
+      "protein_g": 2.58,
+      "fat_g": 1.21,
+      "carbs_g": 4.35
+    },
+    "serving": {
+      "grams": 233.0,
+      "description": "cup"
+    }
+  },
+  "hot_pot": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "hue_beef_rice_vermicelli_soup": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "huevos_rancheros": {
+    "matched_description": "Huevos rancheros",
+    "fdc_id": 2707191,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 1.0,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 6.68,
+      "fat_g": 6.65,
+      "carbs_g": 8.85,
+      "calories_kcal": 121.0
+    },
+    "serving": {
+      "grams": 236.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "inarizushi": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "japanese_style_pancake": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "japanese_tofu_and_vegetable_chowder": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "jiaozi": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "jjigae": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "kamameshi": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "kaya_toast": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "khao_soi": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "kinpira_style_sauteed_burdock": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "kushikatu": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "laksa": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "lamb_kebabs": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "laulau": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "lemon_fig_jelly": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "lightly_roasted_fish": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "lobster_bisque": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "lobster_roll_sandwich": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "loco_moco": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "lumpia": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "macarons": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "malasada": {
+    "matched_description": "Beignet",
+    "fdc_id": 2708071,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.0,
+    "token_coverage": 0.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 5.46,
+      "fat_g": 20.2,
+      "carbs_g": 53.7,
+      "calories_kcal": 417.0
+    },
+    "serving": {
+      "grams": 45.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "mango_pudding": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "mie_ayam": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "mie_goreng": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "minced_meat_cutlet": {
+    "matched_description": "Luncheon meat, pork and chicken, minced, canned, includes Spam Lite",
+    "fdc_id": 174594,
+    "data_type": "SR Legacy",
+    "match_score": 0.612,
+    "token_coverage": 0.667,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 196.0,
+      "protein_g": 15.23,
+      "fat_g": 13.9,
+      "carbs_g": 1.35
+    },
+    "serving": {
+      "grams": 56.0,
+      "description": "oz (1 serving)"
+    }
+  },
+  "minced_pork_rice": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "miso_soup": {
+    "matched_description": "Miso",
+    "fdc_id": 172442,
+    "data_type": "SR Legacy",
+    "match_score": 0.575,
+    "token_coverage": 0.5,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 198.0,
+      "protein_g": 12.79,
+      "fat_g": 6.01,
+      "carbs_g": 25.37
+    },
+    "serving": {
+      "grams": 275.0,
+      "description": "cup"
+    }
+  },
+  "mixed_rice": {
+    "matched_description": "Flour, rice, brown",
+    "fdc_id": 1104812,
+    "data_type": "Foundation",
+    "match_score": 0.525,
+    "token_coverage": 0.5,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 365.25,
+      "protein_g": 7.19,
+      "fat_g": 3.85,
+      "carbs_g": 75.5
+    },
+    "serving": {
+      "grams": 30.0,
+      "description": "RACC"
+    }
+  },
+  "mozuku": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "namero": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "nanbanzuke": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "nasi_campur": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "nasi_goreng": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "nasi_padang": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "nasi_uduk": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "noodles_with_fish_curry": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "oden": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "okinawa_soba": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "omelette": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "omellet with fried rice": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "oshiruko": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "oxtail_soup": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "oyster_omelette": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "panna_cotta": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "pizza_toast": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "pork_cutlet": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "pork_cutlet_on_rice": {
+    "matched_description": "Rice, fried, with pork",
+    "fdc_id": 2708954,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.575,
+    "token_coverage": 0.5,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 7.56,
+      "fat_g": 4.16,
+      "carbs_g": 27.6,
+      "calories_kcal": 179.0
+    },
+    "serving": {
+      "grams": 198.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "pork_fillet_cutlet": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "pork_loin_cutlet": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "pork_miso_soup": {
+    "matched_description": "Soup, miso or tofu",
+    "fdc_id": 2707455,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.679,
+    "token_coverage": 0.667,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 2.21,
+      "fat_g": 0.85,
+      "carbs_g": 2.3,
+      "calories_kcal": 24.0
+    },
+    "serving": {
+      "grams": 245.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "pork_satay": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "pork_sticky_noodles": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "pork_with_lemon": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "pot_au_feu": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "potage": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "poutine": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "pulled_pork_sandwich": {
+    "matched_description": "Pork sandwich",
+    "fdc_id": 2706977,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.717,
+    "token_coverage": 0.667,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 17.7,
+      "fat_g": 5.47,
+      "carbs_g": 25.4,
+      "calories_kcal": 226.0
+    },
+    "serving": {
+      "grams": 115.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "rice_ball": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "rice_crispy_pork": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "rice_gratin": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "rice_gruel": {
+    "matched_description": "Congee",
+    "fdc_id": 2708418,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.575,
+    "token_coverage": 0.5,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 39.0,
+      "protein_g": 0.8,
+      "fat_g": 0.08,
+      "carbs_g": 8.4
+    },
+    "serving": {
+      "grams": 255.0,
+      "description": "1 cup"
+    }
+  },
+  "rice_with_roast_duck": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "risotto": {
+    "matched_description": "Rice, white, with cheese and/or cream based sauce, fat added",
+    "fdc_id": 2709094,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.0,
+    "token_coverage": 0.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 5.16,
+      "fat_g": 7.03,
+      "carbs_g": 20.0,
+      "calories_kcal": 166.0
+    },
+    "serving": {
+      "grams": 204.0,
+      "description": "1 cup"
+    }
+  },
+  "salmon_meuniere": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "salt_pepper_fried_shrimp_with_shell": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "samosa": {
+    "matched_description": "Samosa",
+    "fdc_id": 2708730,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 1.0,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 5.14,
+      "fat_g": 17.5,
+      "carbs_g": 33.2,
+      "calories_kcal": 310.0
+    },
+    "serving": {
+      "grams": 100.0,
+      "description": "1 regular/large"
+    }
+  },
+  "samul": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "sashimi": {
+    "matched_description": "Fish, salmon, raw",
+    "fdc_id": 2706284,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.0,
+    "token_coverage": 0.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 20.4,
+      "fat_g": 11.2,
+      "carbs_g": 0.0,
+      "calories_kcal": 188.0
+    },
+    "serving": {
+      "grams": 135.0,
+      "description": "1 cup"
+    }
+  },
+  "sauteed_spinach": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "sauteed_vegetables": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "seaweed_salad": {
+    "matched_description": "Seaweed, agar, dried",
+    "fdc_id": 170090,
+    "data_type": "SR Legacy",
+    "match_score": 0.525,
+    "token_coverage": 0.5,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 306.0,
+      "protein_g": 6.21,
+      "fat_g": 0.3,
+      "carbs_g": 80.88
+    },
+    "serving": null
+  },
+  "shrimp_and_grits": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "shrimp_with_chill_source": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "sirloin_cutlet": {
+    "matched_description": "DENNY'S, top sirloin steak",
+    "fdc_id": 167673,
+    "data_type": "SR Legacy",
+    "match_score": 0.485,
+    "token_coverage": 0.5,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 182.0,
+      "protein_g": 28.9,
+      "fat_g": 7.34,
+      "carbs_g": 0.14
+    },
+    "serving": {
+      "grams": 107.0,
+      "description": "steak"
+    }
+  },
+  "small_steamed_savory_rice_pancake": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "sour_prawn_soup": {
+    "matched_description": "Soup, hot and sour, Chinese restaurant",
+    "fdc_id": 174808,
+    "data_type": "SR Legacy",
+    "match_score": 0.642,
+    "token_coverage": 0.667,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 39.0,
+      "protein_g": 2.58,
+      "fat_g": 1.21,
+      "carbs_g": 4.35
+    },
+    "serving": {
+      "grams": 233.0,
+      "description": "cup"
+    }
+  },
+  "spaghetti_bolognese": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "spaghetti_carbonara": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "spam_musubi": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "spicy_chicken_salad": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "spicy_chili_flavored_tofu": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "spring_rolls": {
+    "matched_description": "Egg roll, meatless",
+    "fdc_id": 2708700,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.575,
+    "token_coverage": 0.5,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 5.62,
+      "fat_g": 14.14,
+      "carbs_g": 30.02,
+      "calories_kcal": 270.0
+    },
+    "serving": {
+      "grams": 119.0,
+      "description": "1 cup"
+    }
+  },
+  "steamed_egg_hotchpotch": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "steamed_meat_dumpling": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "steamed_rice_roll": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "steamed_spareribs": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "stewed_pork_leg": {
+    "matched_description": "Stew, pork",
+    "fdc_id": 2706519,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.688,
+    "token_coverage": 0.633,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 8.35,
+      "fat_g": 5.42,
+      "carbs_g": 6.29,
+      "calories_kcal": 109.0
+    },
+    "serving": {
+      "grams": 255.0,
+      "description": "1 cup"
+    }
+  },
+  "stinky_tofu": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "stir_fried_beef_and_peppers": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "stir_fried_mixed_vegetables": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "sukiyaki": {
+    "matched_description": "Stir fried beef and vegetables in soy sauce",
+    "fdc_id": 2706751,
+    "data_type": "Survey (FNDDS)",
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 10.73,
+      "fat_g": 4.81,
+      "carbs_g": 4.44,
+      "calories_kcal": 102.0
+    },
+    "serving": {
+      "grams": 162,
+      "description":"1 cup"
+    } 
+  },
+  "sushi": {
+    "matched_description": "Sushi, NFS",
+    "fdc_id": 2708959,
+    "data_type": "Survey (FNDDS)",
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 2.92,
+      "fat_g": 0.67,
+      "carbs_g": 18.4,
+      "calories_kcal": 94.0
+    },
+    "serving": {
+      "grams": 180.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "sushi_bowl": {
+    "matched_description": "Sushi, NFS",
+    "fdc_id": 2708959,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.575,
+    "token_coverage": 0.5,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 2.92,
+      "fat_g": 0.67,
+      "carbs_g": 18.4,
+      "calories_kcal": 94.0
+    },
+    "serving": {
+      "grams": 180.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "takoyaki": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "tanmen": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "tempura_bowl": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "tempura_udon": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "tensin_noodle": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "teriyaki_grilled_fish": {
+    "matched_description": "Fish, bass, grilled",
+    "fdc_id": 2706296,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 0.433,
+    "token_coverage": 0.333,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 143.0,
+      "protein_g": 23.37,
+      "fat_g": 4.8,
+      "carbs_g": 0.0
+    },
+    "serving": {
+      "grams": 135.0,
+      "description": "1 cup"
+    }
+  },
+  "thai_papaya_salad": {
+    "matched_description": "Fruit salad, (pineapple and papaya and banana and guava), tropical, canned, heavy syrup, solids and liquids",
+    "fdc_id": 167764,
+    "data_type": "SR Legacy",
+    "match_score": 0.595,
+    "token_coverage": 0.667,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 86.0,
+      "protein_g": 0.41,
+      "fat_g": 0.1,
+      "carbs_g": 22.36
+    },
+    "serving": {
+      "grams": 257.0,
+      "description": "1 cup"
+    }
+  },
+  "thinly_sliced_raw_horsemeat": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "three_cup_chicken": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "tiramisu": {
+    "matched_description": "Tiramisu",
+    "fdc_id": 2705702,
+    "data_type": "Survey (FNDDS)",
+    "match_score": 1.0,
+    "token_coverage": 1.0,
+    "needs_review": false,
+    "per_100g": {
+      "protein_g": 5.65,
+      "fat_g": 23.9,
+      "carbs_g": 29.4,
+      "calories_kcal": 353.0
+    },
+    "serving": {
+      "grams": 175.0,
+      "description": "Quantity not specified"
+    }
+  },
+  "trunip_pudding": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "tuna_tartare": {
+    "matched_description": "Fish, tuna salad",
+    "fdc_id": 175160,
+    "data_type": "SR Legacy",
+    "match_score": 0.525,
+    "token_coverage": 0.5,
+    "needs_review": false,
+    "per_100g": {
+      "calories_kcal": 187.0,
+      "protein_g": 16.04,
+      "fat_g": 9.26,
+      "carbs_g": 9.41
+    },
+    "serving": {
+      "grams": 205.0,
+      "description": "1 cup"
+    }
+  },
+  "twice_cooked_pork": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "udon_noodle": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "vermicelli_noodles_with_snails": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "winter_melon_soup": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "xiao_long_bao": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "yakitori": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "yellow_curry": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "yudofu": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "zha_jiang_mian": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  },
+  "zoni": {
+    "matched_description": null,
+    "needs_review": false,
+    "per_100g": null,
+    "serving": null,
+    "note": "no usable USDA match found"
+  }
+}
