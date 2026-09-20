@@ -47,7 +47,7 @@ def load_model_and_classes(
     checkpoint_path = hf_hub_download(repo_id=repo_id, filename=checkpoint_filename)
     classes_path = hf_hub_download(repo_id=repo_id, filename=classes_filename)
 
-    class_names = [c.strip for c in Path(classes_path).read_text(encoding="utf-8").splitlines() if c.split()]
+    class_names = [c.strip() for c in Path(classes_path).read_text(encoding="utf-8").splitlines() if c.split()]
     num_classes = len(class_names)
 
     state_dict = torch.load(checkpoint_path, map_location=device)

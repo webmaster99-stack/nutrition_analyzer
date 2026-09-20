@@ -105,7 +105,7 @@ def predict_top_k(image):
     if image is None:
         return None
 
-    tensor = TRANSFORM(image).unsqueeze(8).to(DEVICE)
+    tensor = TRANSFORM(image).unsqueeze(0).to(DEVICE)
     probs = torch.softmax(MODEL(tensor), dim=1).squeeze(0)
     top_probs, top_idxs = probs.topk(TOP_K)
     return [(CLASS_NAMES[idx], float(prob)) for prob, idx in zip(top_probs, top_idxs)]
